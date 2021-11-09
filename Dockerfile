@@ -1,3 +1,3 @@
 FROM php
 EXPOSE 8080
-COPY . /usr/src/myapp
+COPY codigo /usr/src/myapp
